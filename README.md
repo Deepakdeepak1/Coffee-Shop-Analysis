@@ -3,6 +3,12 @@
 - <a href="https://github.com/Deepakdeepak1/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales%20work.xlsx" > Worked File</a>
 - <a href="https://github.com/Deepakdeepak1/Coffee-Shop-Analysis/blob/main/Coffee%20Shop%20Sales.csv"> Raw data </a>
 
+## Analytical Screen shot
+- <a href="https://github.com/Deepakdeepak1/Coffee-Shop-Analysis/blob/main/Analysis.png" >Analysis</a>
+
+## Dash Board Screen shot
+- <a href="https://github.com/Deepakdeepak1/Coffee-Shop-Analysis/blob/main/Dash%20Board.png" > Dash Board</a>
+
 ## Overall Performance (Selected Period)
 - Total Sales: ₹6,98,812
 - Total Profit: ₹1,94,469
